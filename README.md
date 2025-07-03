@@ -4,7 +4,7 @@ A simple and responsive QR code component built using HTML and CSS. This project
 
 ## 🖼️ Preview
 
-![QR Code Screenshot](.images/screenshot.jpg)
+![QR Code Screenshot](images/screenshot.JPG)
 
 ## 🚀 Live Demo
 
